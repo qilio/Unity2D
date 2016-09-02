@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 7b3e96026e5c3054eb575e8f640c5909
+timeCreated: 1462058080
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Body
+    21300004: LeftHand
+    21300006: RightHand
+    21300008: RightFoot
+    21300010: LeftFoot
+    21300012: Pistol
+    21300014: Shotgun
+    21300016: Rifle
+    21300018: BulletParticle
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 44.4}
+        - {x: -21, y: 36.4}
+        - {x: -24, y: 31.400002}
+        - {x: -24, y: 8.400002}
+        - {x: -9, y: -3.5999985}
+        - {x: 21, y: -3.5999985}
+        - {x: 24, y: -0.5999985}
+        - {x: 24, y: 42.4}
+        - {x: 23, y: 44.4}
+      tessellationDetail: 0
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: LeftHand
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 101
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.35, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: RightHand
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: RightFoot
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 79
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: LeftFoot
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 79
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Pistol
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 22
+        height: 14
+      alignment: 9
+      pivot: {x: 0.23, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Shotgun
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 46
+        height: 10
+      alignment: 9
+      pivot: {x: 0.116355315, y: 0.5000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Rifle
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 40
+        width: 43
+        height: 13
+      alignment: 9
+      pivot: {x: 0.271187, y: 0.6441609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: BulletParticle
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 14
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
